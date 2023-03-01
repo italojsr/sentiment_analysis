@@ -1,6 +1,6 @@
 # Sentiment Analysis
 
-O objetivo proposto pelo curso nesse projeto foi desenvolver um classificador que analisa reviews dadas pelos clientes de produtos alimentícios da Amazon. A partir das palavras usadas nos reviews é analizado automaticamente se o feedback é positivo(+1) ou negativo(-1).
+O projeto foi desenvolvido no curso do MITx com o objetivo de desenvolver um classificador que analisa reviews dadas pelos clientes de produtos alimentícios da Amazon. A partir das palavras usadas nos reviews é analizado automaticamente se o feedback é positivo(+1) ou negativo(-1).
 
 > O projeto foi separado em questões, de tal forma que é possível rodar cada questão no arquivo main.py apenas descomentando o código de cada uma delas.
 
