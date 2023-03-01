@@ -1,4 +1,4 @@
-README
+# Sentiment Analysis
 
 O objetivo proposto pelo curso nesse projeto foi desenvolver um classificador que analisa reviews dadas pelos clientes de produtos alimentícios da Amazon. A partir das palavras usadas nos reviews é analizado automaticamente se o feedback é positivo(+1) ou negativo(-1).
 
